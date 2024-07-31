@@ -1,0 +1,36 @@
+Timeless Treasures
+Welcome to Timeless Treasures, an online store for elegant watches.
+
+Description
+Timeless Treasures is a simple web application that allows users to browse and purchase elegant watches. It provides a user-friendly interface to view product details and complete payments using Lipa na Mpesa.
+
+Features
+View product details
+Purchase products securely via Lipa na Mpesa
+Responsive design for mobile and desktop devices
+Installation
+Clone the repository:
+
+bash
+Copy code
+git clone <nickmulinge/stkpush>
+Navigate to the project directory:
+
+bash
+Copy code
+cd timeless-treasures
+Open the index.html file in your web browser.
+
+Usage
+Browse the available products on the main page.
+Click on the "Buy" button to initiate the purchase process.
+Enter your phone number and complete the payment via Lipa na Mpesa.
+Enjoy your elegant watch!
+Contributing
+If you'd like to contribute to this project, please fork the repository and submit a pull request. You can also open an issue for any bugs or feature requests.
+
+Credits
+Created by [Nicholus Mulinge]
+License
+This project is licensed under the MIT License.
+The project is free to use by anyone however one has to recognize me in their project if they use this project.
